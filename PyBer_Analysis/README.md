@@ -15,8 +15,8 @@ This is represented in the table below:
 ## Summary
 Based on these findings I recommend these actions to the CEO of PyBer:
 
-1. Keep generating as much traffic and maintain a relvant presence in the Urban city. Clearly this is where the highest revenue is generated and it can be consistent throughout the year. Offeringn promotions or going to a subscription model to attract new and existing passengers to use the app when they are in the city of travel to another area. 
+1. Keep generating as much traffic and maintain a relvant presence in the Urban city. Clearly this is where the highest revenue is generated and it can be consistent throughout the year. Offeringn promotions or going to a subscription model to attract new and existing passengers to use the app when they are in the city or travel to another area. 
 2. Do not pay too much attention to the Suburban city type. Business is operating at a steady stream here and it appears that passengers are using the application regardless of driver availability or price of fare. 
-3. Invest more resources in Rural areas that will attract more customers and drivers. Since tehse are where longer trips occur, it would be wise to use this area to its maximum advantage. 
+3. Invest more resources in Rural areas that will attract more customers and drivers. Since these are where longer trips occur, it would be wise to use this area to its maximum advantage. 
 
 ![PyBer_fare_summary](https://user-images.githubusercontent.com/112291075/195761724-753ebb2d-41c4-41ce-b11d-5107d8d22815.png)
